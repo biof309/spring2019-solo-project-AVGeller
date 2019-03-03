@@ -17,4 +17,7 @@ Testing how to push a local file to a repository:
 
 1. Press Command+Shift+K (Push Window Appears) or choose VCS
 2. Commit 
-3. Push
+3. write - Add Content in window (Why though?)
+4. Go to VCS
+5. Find Git in context menu 
+6. Select Push
