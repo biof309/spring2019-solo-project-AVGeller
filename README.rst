@@ -17,7 +17,8 @@ of cholesterol levels increasing as people age?
 PyCharm, a kernel in Kaggle and lastly Jupyter Notebook were used to build a data visualization
 using pandas scatter plot function.
 
-
+-kaggle_heart_BIOF309_Final.ipynb (presentation)
+-kaggle_heart_coded.ipynb (code)
 
 Note
 ====
